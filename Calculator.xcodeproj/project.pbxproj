@@ -156,6 +156,7 @@
 		8DD93DAA1B36F93800C3F2DD /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = ShakaPass;
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				8DD93DD31B36F93800C3F2DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8DD93DD41B36F93800C3F2DD /* Build configuration list for PBXNativeTarget "CalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				8DD93DD61B36F93800C3F2DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
